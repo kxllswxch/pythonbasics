@@ -44,3 +44,13 @@ def dog(name,breed,age):
 dog("Bob", "German Shepherd", "5")
 dog("Mary", "Chihuahua", "2")
 dog("Peter", "Siberian Husky", "4")
+
+#use a user defined function with the help of parameters and arguements.
+#details- fullname, position, gender, age
+
+def workers(fullname,position,gender,age)
+    print(fullname,position,gender,age)
+
+workers("Arnold","Secretary","Male","21"
+workers("Merell","Receptionist","Female","19"
+workers("Markeiff","CEO","Male","300"
